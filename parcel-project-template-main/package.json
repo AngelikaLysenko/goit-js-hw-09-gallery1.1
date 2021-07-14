@@ -1,21 +1,22 @@
 {
-  "name": "goit-js-hw-09-gallery1",
+  "name": "goit-js-hw-09-gallery1.1",
   "version": "1.0.0",
-  "description": "goit-js-hw-09-gallery",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve --mode development"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AngelikaLysenko/goit-js-hw-09-gallery1.git"
+    "url": "git+https://github.com/AngelikaLysenko/goit-js-hw-09-gallery1.1.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AngelikaLysenko/goit-js-hw-09-gallery1/issues"
+    "url": "https://github.com/AngelikaLysenko/goit-js-hw-09-gallery1.1/issues"
   },
-  "homepage": "https://github.com/AngelikaLysenko/goit-js-hw-09-gallery1#readme",
+  "homepage": "https://github.com/AngelikaLysenko/goit-js-hw-09-gallery1.1#readme",
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.14.5",

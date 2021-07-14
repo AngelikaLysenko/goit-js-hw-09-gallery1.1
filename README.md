@@ -1,1 +1,0 @@
-# goit-js-hw-09-gallery1.1
