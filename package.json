@@ -5,8 +5,8 @@
   "main": "index.js",
   "homepage": "https://github.com/AngelikaLysenko/goit-js-hw-09-gallery1.1",
   "scripts": {
-    "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery1.1/"
+    "dev": "parcel ./src/*.html",
+    "build": "parcel build ./src/*.html --public-url /goit-js-hw-09-gallery1.1/"
   },
   "repository": {
     "type": "git",
